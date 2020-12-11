@@ -2,15 +2,15 @@
 
   ### Github Username ###
   
-  hgkjhg'j
+  misterloya
 
   ### Email ### 
   
-  ljkhg;lkjh
+  misterloya@gmail.com
 
   ### Title ###
 
-  lkjhlkjh
+  Readme Generator 
 
   ### License ###
 

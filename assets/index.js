@@ -4,7 +4,7 @@ const inquirer = require("inquirer");
 const genMarkdown = require ("./utils/generateMarkdown")
 
 
-// function to initialize program
+// function to initialize program and set questions
 function init() {
     inquirer.prompt([
         {

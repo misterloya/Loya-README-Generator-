@@ -2,19 +2,19 @@
 
   ### Github Username ###
   
-  misterloya
+  test name
 
   ### Email ### 
   
-  misterloya@gmail.com
+  test email 
 
   ### Title ###
 
-  Readme Generator 
+  ;lkja;sdlkfjadsf
 
   ### License ###
 
-  MIT
+  License 2
 
  
 

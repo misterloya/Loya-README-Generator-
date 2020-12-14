@@ -4,27 +4,46 @@ function generateMarkdown(data) {
 
   ### Github Username ###
   
-  ${data.username}
+  github.com/${data.username} 
 
-  ### Email ### 
+
+  ### Table of Contents ### 
   
   ${data.email}
 
-  ### Title ###
+  ### Installation ###
 
-  ${data.title}
+  ${data.installation}
+
+  
+  ### Description ###
+
+  ${data.description}
+
+  ### Usage ###
+
+  ${data.usage}
 
   ### License ###
 
-  ${data.license}
+  ${badgeMaker(data.license)}
 
- 
-
-
-
+  ### Contributing ### 
 
 
 `;
+// need to expand this to include installation functions
+
 }
+
+function badgeMaker (license) {
+  if (license === "none"){
+    return "";
+  }
+  else {
+    return `[![License](https://img.shields.io/badge/License-${license}-yellow.svg)]`;
+  }
+};
+
 
 module.exports = generateMarkdown;

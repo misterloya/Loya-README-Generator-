@@ -1,4 +1,3 @@
-const inquire = require ("inquirer");
 const fs = require ("fs");
 const inquirer = require("inquirer");
 const genMarkdown = require ("./utils/generateMarkdown")
@@ -10,7 +9,8 @@ function init() {
         {
         type: "input",
         message: "What is your Github user name?",
-        name: "username"
+        name: "username",
+        default: "github.com/"
         },
         {
         type: "input",
@@ -26,12 +26,29 @@ function init() {
         type: "list",
         message: "What kind of license is used?",
         name: "license",
-        choices: ["MIT", "License 2", "License 3"]
+        choices: ["MIT", "Apache%202.0", "EPL%201.0", "none"]
+       },
+       {
+        type: "input", 
+        message: "Give a description of the project: ",
+        name: "description",
+        default: "Type Description Here"
+       },
+       {
+        type: "input", 
+        message: "What's the installation?",
+        name: "installation",
+        default: "npm install"
+       },
+       {
+        type: "input", 
+        message: "What's the Usage",
+        name: "usage",
        }
+
 
     ]).then((answers) =>{
         return fs.writeFileSync("README.md", genMarkdown(answers))
-        // writeToFile("README.md", genMarkdown({answers}));
     }).then(() =>{
     console.log("This file has been generated! ");
     });
@@ -39,3 +56,4 @@ function init() {
 
 // function call to initialize program
 init();
+

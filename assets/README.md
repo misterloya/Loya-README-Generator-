@@ -2,7 +2,7 @@
 
   ### Github Username ###
   
-  github.com/testerloya 
+  github.com/misterloya 
 
 
   
@@ -22,22 +22,22 @@
   
   ### Description ###
 
-  This is the best ReadMe Ever because it was written in the command line.
+  Here's an elaborate description of the project that's being displayed here. 
 
   ### Usage ###
 
-  This is the usage of the best ReadMe Ever. 
+  This is an explanation of the usage of this project, built directly in the command line. 
 
   ### License ###
 
-  [![License](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)]
+  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
   ### Screenshot ### 
 
   
   ### Email ###
   
-  testerloya@gmail.com
+  misterloya@gmail.com
   
 
 

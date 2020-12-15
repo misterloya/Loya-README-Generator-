@@ -2,7 +2,7 @@
 
   ### Github Username ###
   
-  github.com/adsfasdfasdf 
+  github.com/misterloya 
 
 
   
@@ -17,16 +17,16 @@
   
   ### Installation ###
 
-  innn
+  npm install
 
   
   ### Description ###
 
-  dflakdsjf;aldksf
+  This project is designed to generate a readme.md file after taking users inputs from questions asked by the programmer. 
 
   ### Usage ###
 
-  ;lkn;lkjins
+  This is an example of a usage explanation. 
 
   ### License ###
 
@@ -34,11 +34,11 @@
 
   ### Screenshot ### 
 
-  ![Front Page Gif](imageseadmescreenshot.gif)
+  ![Front Page Gif](images/readmescreenshot.gif)
   
   ### Email ###
   
-  asdfasdfasdfadsf
+  misterloya@gmail.com
   
 
 

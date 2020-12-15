@@ -7,10 +7,16 @@ function generateMarkdown(data) {
   github.com/${data.username} 
 
 
-  ### Table of Contents ### 
+  ### Email ###
   
   ${data.email}
+  
+  
+  ### Table of Contents ### 
+  
+  * [Usage](#usage)
 
+  
   ### Installation ###
 
   ${data.installation}

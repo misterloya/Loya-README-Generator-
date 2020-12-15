@@ -2,13 +2,19 @@
 
   ### Github Username ###
   
-  github.com/misterloya 
+  github.com/github.com/ 
 
 
+  ### Email ###
+  
+  
+  
+  
   ### Table of Contents ### 
   
-  misterloya@gmail.com
+  * [Usage](#usage)
 
+  
   ### Installation ###
 
   npm install
@@ -16,15 +22,15 @@
   
   ### Description ###
 
-  This project deals with thml, css, javascript 
+  adfasdfasdfasdfadsfasdfasdfadsf
 
   ### Usage ###
 
-  no usage 
+  adfasdfadsfadfadsfadf
 
   ### License ###
 
-  [![License](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)]
+  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
   ### Contributing ### 
 

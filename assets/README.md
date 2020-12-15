@@ -2,7 +2,7 @@
 
   ### Github Username ###
   
-  github.com/adfadsf 
+  github.com/asdfadsfads 
 
 
   
@@ -17,7 +17,7 @@
   
   ### Installation ###
 
-  asdf
+  npm install
 
   
   ### Description ###
@@ -26,7 +26,7 @@
 
   ### Usage ###
 
-  asdfasdf
+  adsfadsf
 
   ### License ###
 
@@ -38,7 +38,7 @@
   
   ### Email ###
   
-  asdfasdf
+  fadsfasdfa
   
 
 

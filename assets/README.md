@@ -2,7 +2,7 @@
 
   ### Github Username ###
   
-  github.com/misterloya@gmail.com 
+  github.com/misterloya 
 
 
   
@@ -22,22 +22,22 @@
   
   ### Description ###
 
-  here's a description 
+  This is a readme.md generator that's based on answers give by a user. 
 
   ### Usage ###
 
-  what does usage even mean 
+  This is the usage of the app/....
 
   ### License ###
 
-  [![License](https://img.shields.io/badge/License-EPL%201.0-yellow.svg)]
+  [![License](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)]
 
   ### Screenshot ### 
 
   
   ### Email ###
   
-  misterloya@mgilasdf
+  misterloya@gmail.com
   
 
 

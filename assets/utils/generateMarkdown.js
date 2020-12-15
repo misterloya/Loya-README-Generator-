@@ -14,7 +14,10 @@ function generateMarkdown(data) {
   
   ### Table of Contents ### 
   
-  * [Usage](#usage)
+  * [Installation](#installation)
+  * [Description](#description)
+  * [License](#license)
+  * [Contributors](#contributors)
 
   
   ### Installation ###

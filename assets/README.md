@@ -2,7 +2,7 @@
 
   ### Github Username ###
   
-  github.com/misterloya 
+  github.com/adfadsf 
 
 
   
@@ -17,16 +17,16 @@
   
   ### Installation ###
 
-  npm install
+  asdf
 
   
   ### Description ###
 
-  Here's an elaborate description of the project that's being displayed here. 
+  Type Description Here
 
   ### Usage ###
 
-  This is an explanation of the usage of this project, built directly in the command line. 
+  asdfasdf
 
   ### License ###
 
@@ -34,10 +34,11 @@
 
   ### Screenshot ### 
 
+  ![Front Page Gif](./images/readmescreenshot.gif)
   
   ### Email ###
   
-  misterloya@gmail.com
+  asdfasdf
   
 
 

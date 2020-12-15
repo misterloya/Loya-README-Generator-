@@ -7,15 +7,12 @@ function generateMarkdown(data) {
   github.com/${data.username} 
 
 
-  ### Email ###
-  
-  ${data.email}
-  
   
   ### Table of Contents ### 
   
   * [Installation](#installation)
   * [Description](#description)
+  * [Usage](#usage)
   * [License](#license)
   * [Contributors](#contributors)
 
@@ -37,7 +34,13 @@ function generateMarkdown(data) {
 
   ${badgeMaker(data.license)}
 
-  ### Contributing ### 
+  ### Screenshot ### 
+
+  
+  ### Email ###
+  
+  ${data.email}
+  
 
 
 `;

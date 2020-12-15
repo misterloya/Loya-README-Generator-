@@ -2,7 +2,7 @@
 
   ### Github Username ###
   
-  github.com/misterloya 
+  github.com/testerloya 
 
 
   
@@ -22,11 +22,11 @@
   
   ### Description ###
 
-  This is a readme.md generator that's based on answers give by a user. 
+  This is the best ReadMe Ever because it was written in the command line.
 
   ### Usage ###
 
-  This is the usage of the app/....
+  This is the usage of the best ReadMe Ever. 
 
   ### License ###
 
@@ -37,7 +37,7 @@
   
   ### Email ###
   
-  misterloya@gmail.com
+  testerloya@gmail.com
   
 
 

@@ -2,7 +2,7 @@
 
   ### Github Username ###
   
-  github.com/asdfadsfads 
+  github.com/adsfasdfasdf 
 
 
   
@@ -17,16 +17,16 @@
   
   ### Installation ###
 
-  npm install
+  innn
 
   
   ### Description ###
 
-  Type Description Here
+  dflakdsjf;aldksf
 
   ### Usage ###
 
-  adsfadsf
+  ;lkn;lkjins
 
   ### License ###
 
@@ -34,11 +34,11 @@
 
   ### Screenshot ### 
 
-  ![Front Page Gif](./images/readmescreenshot.gif)
+  ![Front Page Gif](imageseadmescreenshot.gif)
   
   ### Email ###
   
-  fadsfasdfa
+  asdfasdfasdfadsf
   
 
 

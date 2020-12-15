@@ -36,7 +36,7 @@ function generateMarkdown(data) {
 
   ### Screenshot ### 
 
-  ![Front Page Gif](./images/readmescreenshot.gif)
+  ![Front Page Gif](images\readmescreenshot.gif)
   
   ### Email ###
   
